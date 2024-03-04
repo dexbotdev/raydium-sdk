@@ -71,7 +71,7 @@
   },
   "eslint.alwaysShowStatus": true,
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "prettier.configPath": ".prettierrc"
 }
